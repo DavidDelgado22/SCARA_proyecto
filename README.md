@@ -33,6 +33,6 @@ El flujo general es:
 .
 ├─ scara_direct_kinematics.ipynb   # Notebook principal
 ├─ arduino_scara.ino               # Código de Arduino
-├─ media/
-│   └─ scara_fk_demo.gif           # GIF de evidencia
+├─ GIF
 └─ README.md                       # Este documento
+
