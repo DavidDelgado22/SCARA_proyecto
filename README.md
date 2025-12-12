@@ -1,4 +1,4 @@
-# Robot SCARA RRP – Cinemática directa e inversay control con Arduino
+# Robot SCARA RRP – Cinemática directa e inversa y control con Arduino
 
 Repositorio del proyecto de **cinemática directa y control de un robot SCARA RRP** usando:
 - Python (Jupyter Notebook) para el cálculo de la cinemática directa.
@@ -108,6 +108,7 @@ Movimiento del robot físico
 
 - Kevyn David Delgado Gómez, Eduardo Montiel Salazar
 - Ingeniería Mecatrónica – Cinemática Directa SCARA RRP
+
 
 
 
